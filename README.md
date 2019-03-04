@@ -42,7 +42,7 @@ don't resize width
 
 don't scales image
 
-====Supported image formats:====
+====Supported image formats====
 
 PNG, JPG, JPEG, BMP, GIF
 
